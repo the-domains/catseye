@@ -1,0 +1,28 @@
+name: catseye
+favicon: null
+layout_spectrum: 0.7780824976507574
+typography_spectrum: 0.9530521978158504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2759410727303475
+  lightness: 0.516282677417621
+  saturation: 0.08198763709515333
+  rhythmicContrast: 0.2645217082463205
+purpose: []
