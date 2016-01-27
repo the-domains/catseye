@@ -1,7 +1,7 @@
 name: catseye
 favicon: null
-layout_spectrum: 0.7780824976507574
-typography_spectrum: 0.9530521978158504
+layout_spectrum: 0.93871
+typography_spectrum: 0.08708
 title: Somewhere On The Spiral
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2759410727303475
+    - '#e5f7f7'
+    - '#660066'
+    - '#7193cf'
+    - '#97609f'
+    - '#010006'
+  brandStrength: 0.5
   lightness: 0.516282677417621
-  saturation: 0.08198763709515333
+  saturation: 0.125
   rhythmicContrast: 0.2645217082463205
 purpose: []
